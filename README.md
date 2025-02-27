@@ -26,6 +26,8 @@ Overall, BigCinema is a feature-rich movie app designed for convenience, speed, 
 
 Homepage
 
+<img width="931" alt="Image" src="https://github.com/user-attachments/assets/c06e2ce3-7a46-4655-a029-c5eb6c9144c4" />
+
 Searched Movie
 
 Feature - Read more and Save Favourite
