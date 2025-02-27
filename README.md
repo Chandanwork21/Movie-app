@@ -30,6 +30,12 @@ Homepage
 
 Searched Movie
 
+<img width="818" alt="Image" src="https://github.com/user-attachments/assets/7d3e8970-fc50-427c-b141-53f785e1e57a" />
+
 Feature - Read more and Save Favourite
 
+<img width="377" alt="Image" src="https://github.com/user-attachments/assets/e64880fa-8513-4714-a10f-2a6ce36b44b4" />
+
 Favourite Page
+
+<img width="496" alt="Image" src="https://github.com/user-attachments/assets/59c6492a-2b98-469e-8f05-ee967ad5d737" />
