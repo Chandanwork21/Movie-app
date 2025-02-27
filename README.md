@@ -23,3 +23,11 @@ One of the standout features of BigCinema is its ability to let users save their
 Overall, BigCinema is a feature-rich movie app designed for convenience, speed, and user engagement.
 
 # OUTPUT
+
+Homepage
+
+Searched Movie
+
+Feature - Read more and Save Favourite
+
+Favourite Page
