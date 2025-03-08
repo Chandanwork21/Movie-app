@@ -19,7 +19,6 @@ Searched Movie
 
 <img width="818" alt="Image" src="https://github.com/user-attachments/assets/7d3e8970-fc50-427c-b141-53f785e1e57a" />
 
-# Live Demo : https://foodie-mu-neon.vercel.app/
 
 Feature - Read more and Save Favourite
 
@@ -28,3 +27,5 @@ Feature - Read more and Save Favourite
 Favourite Page
 
 <img width="496" alt="Image" src="https://github.com/user-attachments/assets/59c6492a-2b98-469e-8f05-ee967ad5d737" />
+
+# Live Demo : https://bigcinema.vercel.app/
