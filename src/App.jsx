@@ -20,4 +20,3 @@ const App = () => {
 
 export default App
 
-// https://www.omdbapi.com/?i=tt3896198&apikey=53782da0
