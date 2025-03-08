@@ -2,6 +2,7 @@ import React from 'react'
 import MovieSearch from './components/MovieSearch'
 import Favorites from './components/Favourites';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { Analytics } from "@vercel/analytics/react"
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
      <Route path="/favorites" element={<Favorites />} />
       </Routes>
     </Router>
+    <Analytics />
     </>
   )
 }
